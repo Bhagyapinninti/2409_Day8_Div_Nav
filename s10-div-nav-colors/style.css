@@ -1,0 +1,59 @@
+#body
+{
+    background-color:hsl(180, 39%, 34%);
+    text-align: center;
+    border: 5px double yellow ;
+}
+.mainimage{
+    height: 600px;
+}
+
+
+.grandfa{
+    background-color: bisque;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px dashed darkred;
+    padding: 10px;
+    display: inline-block;
+    margin: 30px;
+}
+
+div h2{
+text-align: center;
+}
+div p{
+    text-align: justify;
+}
+div img{
+    width: 300px;
+    height: 300px;
+    
+}
+.peter
+{
+    border: 5px dashed darkgreen;
+    background-color: aquamarine;
+}
+.clara{
+    border: 5px dashed darkblue;
+    background-color: lightblue;
+}
+.joseph{
+    border: 5px dashed darkmagenta;
+    background-color: rgba(99,100,200,0.4);
+}
+
+.navigation a{
+    background-color: khaki;
+    font-size: 2rem;
+    border: 3px groove green ;
+}
+
+.indexnavigation a {
+    text-align: left;
+    background-color: khaki;
+    font-size: 1rem;
+    border: 5px groove green;
+}
+    
